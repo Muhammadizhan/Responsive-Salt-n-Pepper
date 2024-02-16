@@ -20,7 +20,7 @@
 
 @media(max-width:720px){
     #iconn{
-        display: block;
+        display: inline;
         
 
     }
